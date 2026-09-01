@@ -4,9 +4,11 @@
 
 This project explores how Natural Language Processing (NLP) and Transformer-based language models can be used to classify social media text into two categories:
 
-Not Suicide Post
+Not Suicide Post 63%
 
-Potential Suicide Post
+Potential Suicide Post 37%
+
+total data: 1778 rows
 
 The goal of the project is to build an NLP classification pipeline that can identify linguistic patterns associated with potentially concerning content in tweets.
 
